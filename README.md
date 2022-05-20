@@ -1,3 +1,3 @@
 # cmon man
-prolly necu znat napraviti 
+prolly necu znat napraviti "\n" 
 pomozte eriku miksicu da dode do bountya
