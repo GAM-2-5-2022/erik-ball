@@ -37,7 +37,7 @@ pygame.mixer.music.play(-1)
 
 #prozor
 displaywid = 1440
-displayhei = 1280
+displayhei = 1080
 display=pygame.display.set_mode((displaywid,displayhei))
 sat=pygame.time.Clock()
 #icon
